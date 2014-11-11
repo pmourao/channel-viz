@@ -13,7 +13,7 @@
 	*/
 
 	var defaultKey		= '7XLNSmM5IonCUhX7XnJ1baso3bawIOryWCPvXNvdD6g', // Unique master Xively API key to be used as a default
-		defaultFeeds	= [1347017346], // Comma separated array of Xively Feed ID numbers
+		defaultFeeds	= [1339464303], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'Wine Monitoring', // Replaces Xively logo in the header
 		dataDuration	= '', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 0, // Default interval for data to be displayed (in seconds)
